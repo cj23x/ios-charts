@@ -14,7 +14,7 @@ I've chosen to write it in `Swift` as it can be highly optimized by the compiler
 **An amazing feature** of this library now, both Android and iOS, is the time it saves you when developing for both platforms, as the learning curve is singleton- it happens only once, and the code stays very similar so developers don't have to go around and re-invent the app to produce the same output with a different library. (And that's not even considering the fact that there's not really another good choice out there currently...)
 
 ## Usage
-
+ 
 In order to correctly compile:
 
 1. Drag the `Charts.xcodeproj` to your project  
